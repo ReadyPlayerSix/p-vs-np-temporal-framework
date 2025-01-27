@@ -1,6 +1,6 @@
 # P vs NP Analysis: A Knowledge-Based Mathematical Framework
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14736832.svg)](https://doi.org/10.5281/zenodo.14736832)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14749668.svg)](https://doi.org/10.5281/zenodo.14749668)
 
 ## Overview
 
