@@ -1,6 +1,6 @@
 # P vs NP Analysis: A Knowledge-Based Mathematical Framework
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14749668.svg)](https://doi.org/10.5281/zenodo.14749668)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14796999.svg)](https://doi.org/10.5281/zenodo.14796999)
 
 ## Overview
 
@@ -39,12 +39,12 @@ _Interactive components are under development. Watch this space for updates!_
 If you use this framework in your research, please cite:
 
 ```
-@misc{runtal2024pvsnp,
+@misc{runtal2025pvsnp,
 title={P vs NP: Redefining Complexity Classes Beyond Mathematical Constructs},
 author={Runtal Jr, Claro C.},
-year={2024},
+year={2025},
 publisher={Zenodo},
-doi={10.5281/zenodo.14736832}
+doi={10.5281/zenodo.14796999}
 }
 ```
 
