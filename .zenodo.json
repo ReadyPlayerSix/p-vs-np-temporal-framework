@@ -1,0 +1,33 @@
+{
+    "creators": [
+        {
+            "name": "Runtal Jr, Claro C.",
+            "affiliation": "Independent Researcher",
+            "orcid": "0000-0000-0000-0000"  // Replace with actual ORCID if available
+        }
+    ],
+    "title": "P vs NP: Redefining Complexity Classes Beyond Mathematical Constructs",
+    "description": "This work presents a novel framework to reenvision the P vs NP problem through the synthesis of computational phase transitions, knowledge accumulation dynamics, and thermodynamic principles. By formalizing problem-solving capability as a thermodynamic process, we establish physical failure points as natural delimiters that demonstrate how the gap between P and NP emerges from the inherent constraints of physical systems rather than purely mathematical constructs.",
+    "keywords": [
+        "P vs NP",
+        "Computational Complexity",
+        "Temporal Knowledge Framework",
+        "Physical Constraints",
+        "Phase Transitions",
+        "Theoretical Computer Science"
+    ],
+    "license": "CC-BY-4.0",
+    "publication_date": "2024-02-03",
+    "version": "3.0.0",
+    "language": "eng",
+    "notes": "Version 3.0.0 introduces comprehensive empirical validation across 465 training runs, enhanced mathematical formalization, refined parallel processing integration, and complete physical constraints modeling system.",
+    "access_right": "open",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "references": [
+        "Cook, S. A. (1971). The Complexity of Theorem-Proving Procedures",
+        "Bennett, C. H., & Landauer, R. (1985). The Fundamental Physical Limits of Computation",
+        "Valiant, L. G. (1984). A Theory of the Learnable",
+        "Lloyd, S. (2000). Ultimate Physical Limits to Computation"
+    ]
+}
